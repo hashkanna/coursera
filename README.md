@@ -1,4 +1,1 @@
-coursera
-========
-
-Code for Programming Exercises in Coursera classes
+Programming Exercises for Coursera classes
