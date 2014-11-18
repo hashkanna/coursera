@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersection contains common elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains elements in first set but not in second set[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter - returns subset of elements that satisfy the predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall - returns true if all elements in S satisfy predicate p[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists - returns true if atleast one element in S satisfies predicate p[0m[0m
+[0m[[0minfo[0m] [0m[32m- map - run map function on a set[0m[0m
